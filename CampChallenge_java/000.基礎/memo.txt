@@ -1,0 +1,5 @@
+PCのスペック確認
+OS: macOS Sieraバージョン10.12.6
+CPU: 1.3GHz Intel Core i5
+メモリ: 4GB
+HDD: 121GB 
